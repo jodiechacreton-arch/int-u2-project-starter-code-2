@@ -1,14 +1,17 @@
 /* The code below centers the text of all h1's on the page. */
 h1 {
-    text-align:center;
+   text-align:center;
+
 }
+
 
 /* The code below centers all images on the page and gives them a width of 400px. */
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width:400px;
+  width: 2000px;
+  border: 10px rgb(0, 0, 0) solid;
 }
 
 /* The code below centers the text of all h2's on the page. */
