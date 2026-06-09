@@ -23,10 +23,25 @@ h2 {
 .section-container {
     display:flex;
     justify-content:space-between;
+    
 }
 
 /* The code below a solid black border to section and puts space between them (the margin). */
 .section {
-    border: 5px black solid;
+    border: 2px black solid;
     margin:5px;
+    border-radius: 10px;
+}
+
+.columns {
+    display:flex;
+    justify-content:space-between;
+}
+
+.column-style {
+    border: 2px black solid;
+    margin:5px;
+    border-radius: 10px;
+    width: 30%;
+    text-align:center;
 }
