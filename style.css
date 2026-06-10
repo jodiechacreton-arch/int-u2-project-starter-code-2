@@ -55,4 +55,8 @@ h2 {
     border-radius: 10px;
     width: 30%;
     text-align:center;
+    color: rgb(231, 30, 187);
+}
+a {
+    color: rgb(244, 26, 135);
 }
